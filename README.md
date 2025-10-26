@@ -1,6 +1,6 @@
 # 🧪 API Automation Testing — Reqres.in  
 
-**Author:** **Fritzie Primananda Adipraja**  
+**Author:** **Fritzie Primananda Adi Praja**  
 
 ---
 
@@ -8,7 +8,7 @@
 This repository contains automated API test scripts written in **JavaScript** using the **Playwright Test** framework.  
 
 The tests cover **positive** and **negative** scenarios for the public API endpoint:  
-`https://reqres.in/api/users?page=2`
+[https://reqres.in/api/users?page=2](https://reqres.in/api/users?page=2)
 
 ---
 
